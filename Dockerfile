@@ -1,2 +1,3 @@
-FROM prerender/prerender:latest
+# Dockerfile
+FROM prerendercloud/prerender
 EXPOSE 3000
